@@ -1,0 +1,17 @@
+The Area which was covered by water few years back is now a barren land
+due to drastic changes happening in the ecosystem that is global warming
+followed by the rise in temperatures and in some polar regions the 
+areas are overflodded with more water.Inorder to alert the people and
+environmentalists this project aims to estimate the change in area 
+covered by water bodies in an Area by comparing the satellite images of
+an area in  different years.Auto encoder is used which is an artificial
+neural network to extract water bodies from high-resolution remote 
+sensing images.This model is typically capable of reconstructing data 
+similar to the class of observations of which the model observed during
+training.The segmented masks which are generated using auto encoder of 
+a satellite image of an area over different years are used for estimating
+the change in area of water bodies  using Support Vector Machine.
+
+Keywords: Water-body Segmentation, Auto encoders, high resolution remote sensing
+          images,Segmented masks,Support Vector Machine.
+
